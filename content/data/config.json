@@ -41,7 +41,7 @@
     "header": {
         "title": "Jardín Sofía",
         "logo_alt": "lorem-ipsum",
-        "has_nav": true,
+        "has_nav": false,
         "nav_links": [
             {
                 "label": "¿Quiénes somos?",

@@ -1,7 +1,7 @@
 ---
 title: Acceso
 sections:
-  - title: lorem-ipsum
+  - title: Muchas gracias por tu pago
     subtitle: lorem-ipsum
     actions: []
     align: left

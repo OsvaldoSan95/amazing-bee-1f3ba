@@ -20,11 +20,6 @@ sections:
           - label: Learn More
             url: /style-guide
             style: primary
-          - label: lorem-ipsum
-            url: '#'
-            style: link
-            new_window: false
-            no_follow: false
       - title: Feature 3
         content: >-
           Id nibh tortor id aliquet lectus proin. Amet venenatis urna cursus

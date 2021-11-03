@@ -155,7 +155,7 @@ sections:
     align: center
     image_alt: lorem-ipsum
     image_position: left
-    has_background: false
+    has_background: true
     background:
       background_color: white
       background_image_opacity: 0

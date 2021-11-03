@@ -21,17 +21,11 @@ sections:
         content: |
           #### Módulo 1
 
-          Figuras 3D y colores
+          [Figuras 3D y colores](https://www.facebook.com)
 
-          Frutas y postres
 
-          Comida rápida
-
-          Flores y plantas
 
           ####
-
-
 
           ####
         align: left

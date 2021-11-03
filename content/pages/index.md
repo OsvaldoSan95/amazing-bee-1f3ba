@@ -21,7 +21,7 @@ sections:
   - type: blog_feed_section
     title: Escuelas disponibles
     show_recent: true
-    recent_count: 0
+    recent_count: 10
   - type: cta_section
     title: Por solo $89.00 MXN al mes
     subtitle: >-

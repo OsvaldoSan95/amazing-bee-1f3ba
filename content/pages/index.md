@@ -132,7 +132,12 @@ sections:
     image: /images/Info de talleres.png
   - title: Inglés
     subtitle: Aprende de forma didáctica con la metodología Cambridge
-    actions: []
+    actions:
+      - label: lorem-ipsum
+        url: '#'
+        style: link
+        new_window: false
+        no_follow: false
     align: left
     image_alt: lorem-ipsum
     image_position: left

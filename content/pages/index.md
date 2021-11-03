@@ -27,7 +27,7 @@ sections:
       - content/data/team/person-pr13diz8m.json
     type: team_section
   - type: cta_section
-    title: Por solo $399.00 MXN al año
+    title: Disfruta todo el contenido por solo $399.00 MXN al año
     actions:
       - label: Suscribirme
         url: 'https://www.youtube.com/watch?v=SL_C1NVHflU'

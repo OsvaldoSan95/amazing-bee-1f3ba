@@ -36,16 +36,6 @@ sections:
 
 
 
-          #### Módulo 2
-
-          Dinosaurios
-
-          Animales domésticos
-
-          Animales de granja
-
-          Animales marinos
-
           ####
         align: left
         image_alt: Feature 3 placeholder image

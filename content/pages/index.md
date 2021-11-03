@@ -29,7 +29,7 @@ sections:
       Aprovecha el precio de lanzamiento y tendrás acceso al nuevo contenido sin
       costo extra
   - title: Modelado con plastilina
-    subtitle: lorem-ipsum
+    subtitle: Dale forma a tus ideas
     actions: []
     align: left
     image_alt: lorem-ipsum

@@ -42,7 +42,7 @@ sections:
     actions:
       - label: Más información
         url: '#'
-        style: link
+        style: primary
         new_window: false
         no_follow: false
     align: left

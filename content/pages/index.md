@@ -138,7 +138,7 @@ sections:
         style: primary
         new_window: false
         no_follow: false
-    align: right
+    align: left
     image_alt: lorem-ipsum
     image_position: left
     has_background: false

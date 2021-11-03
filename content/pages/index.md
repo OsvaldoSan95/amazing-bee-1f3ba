@@ -5,7 +5,7 @@ sections:
     title: Desarrolla tu talento
     subtitle: >-
       Nuestros cursos más populares ahora disponibles para que los disfrutes a
-      tu ritmo. Accede a todos por un solo pago.
+      tu ritmo. Accede a todos por un solo pago anual.
     actions: []
     align: left
     image: /images/Verde Crema Viaje Montaña Vacaciones Planes Foto Collage.png

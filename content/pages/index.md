@@ -112,7 +112,7 @@ sections:
     background_color: gray
     type: cta_section
   - title: Programación
-    subtitle: Diviertete mientras te preparas para la profesión del presente
+    subtitle: Diviértete mientras te preparas para la profesión del presente
     actions: []
     align: left
     image_alt: lorem-ipsum

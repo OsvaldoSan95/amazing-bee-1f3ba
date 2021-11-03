@@ -87,7 +87,12 @@ sections:
     image: /images/WhatsApp Image 2021-10-13 at 20.18.38 (1).jpeg
   - title: Dibujo
     subtitle: Aprende desde el boceto
-    actions: []
+    actions:
+      - label: lorem-ipsum
+        url: '#'
+        style: link
+        new_window: false
+        no_follow: false
     align: left
     image_alt: lorem-ipsum
     image_position: left

@@ -49,7 +49,12 @@ sections:
     image: /images/Taller de plastilina.png
   - title: Pintura acrílica
     subtitle: Exprésate a través del color
-    actions: []
+    actions:
+      - label: lorem-ipsum
+        url: '#'
+        style: link
+        new_window: false
+        no_follow: false
     align: left
     image_alt: lorem-ipsum
     image_position: left

@@ -62,7 +62,7 @@ sections:
         style: secondary
         new_window: false
         no_follow: false
-        label: Más información
+        label: Suscribirme
     align: center
     image_alt: lorem-ipsum
     image_position: left

@@ -17,6 +17,10 @@ sections:
       background_image_opacity: 15
       background_image_size: contain
       background_image_repeat: repeat
+  - title: ¿Qué te gustaría aprender primero?
+    team:
+      - content/data/team/person-qq6sch2i6.json
+    type: team_section
   - title: Escuela de modelado con plastilina
     subtitle: Dale forma a tus ideas
     actions:
@@ -63,10 +67,6 @@ sections:
         style: primary
     has_background: true
     background_color: gray
-  - title: ¿Qué te gustaría aprender primero?
-    team:
-      - content/data/team/person-qq6sch2i6.json
-    type: team_section
 seo:
   title: Jardín Sofía Cursos online
   description: 'Cursos online infantiles. Plastilina, pintura, Dibujo, programación e inglés'

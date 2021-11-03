@@ -111,7 +111,7 @@ sections:
     has_background: true
     background_color: gray
     type: cta_section
-  - title: lorem-ipsum
+  - title: Programación
     subtitle: lorem-ipsum
     actions: []
     align: left

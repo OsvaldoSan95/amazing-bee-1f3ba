@@ -51,7 +51,7 @@ sections:
         image_alt: Feature 3 placeholder image
         image_position: right
         actions:
-          - label: Suscribirse
+          - label: Suscribirse para desbloqu
             url: '#'
             style: primary
             new_window: false

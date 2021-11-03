@@ -131,7 +131,7 @@ sections:
     type: hero_section
     image: /images/Info de talleres.png
   - title: Inglés
-    subtitle: lorem-ipsum
+    subtitle: Aprende de forma didáctica con la metodología Cambridge
     actions: []
     align: left
     image_alt: lorem-ipsum

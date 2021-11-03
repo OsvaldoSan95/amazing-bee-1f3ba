@@ -64,7 +64,8 @@ sections:
     has_background: true
     background_color: gray
   - title: lorem-ipsum
-    team: []
+    team:
+      - content/data/team/person-qq6sch2i6.json
     type: team_section
 seo:
   title: Jardín Sofía Cursos online

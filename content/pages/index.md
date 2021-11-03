@@ -154,7 +154,7 @@ sections:
     actions:
       - label: Consultar horarios
         url: '#'
-        style: link
+        style: secondary
         new_window: false
         no_follow: false
     align: center

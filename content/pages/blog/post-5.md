@@ -1,5 +1,5 @@
 ---
-title: Amet Nulla Facilisi Morbi Tempus
+title: Escuela de dibujo
 date: '2020-06-02'
 author: content/data/team/gordon-norman.yaml
 categories: []

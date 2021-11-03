@@ -38,7 +38,6 @@ sections:
     type: hero_section
     image: /images/Taller de plastilina.png
   - title: Escuela de pintura
-    subtitle: lorem-ipsum
     actions:
       - label: Más información
         url: '#'

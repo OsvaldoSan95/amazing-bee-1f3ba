@@ -19,6 +19,13 @@
                 "label": "Escríbenos por Whatsapp",
                 "url": " wa.link/06fmhf",
                 "style": "secondary"
+            },
+            {
+                "label": "lorem-ipsum",
+                "url": "#",
+                "style": "link",
+                "new_window": false,
+                "no_follow": false
             }
         ]
     },

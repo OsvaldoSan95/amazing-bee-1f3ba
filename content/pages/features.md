@@ -56,11 +56,6 @@ sections:
             style: primary
             new_window: false
             no_follow: false
-          - label: lorem-ipsum
-            url: '#'
-            style: link
-            new_window: false
-            no_follow: false
 seo:
   title: Features
   description: This is the features page

@@ -86,7 +86,7 @@ sections:
     type: hero_section
     image: /images/WhatsApp Image 2021-10-13 at 20.18.38 (1).jpeg
   - title: Dibujo
-    subtitle: lorem-ipsum
+    subtitle: 'Aprende '
     actions: []
     align: left
     image_alt: lorem-ipsum

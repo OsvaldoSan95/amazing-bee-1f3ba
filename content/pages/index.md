@@ -42,7 +42,7 @@ sections:
     actions: []
     align: left
     image_alt: lorem-ipsum
-    image_position: right
+    image_position: left
     has_background: false
     background:
       background_color: white

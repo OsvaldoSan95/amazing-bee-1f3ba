@@ -63,9 +63,6 @@ sections:
         style: primary
     has_background: true
     background_color: gray
-    subtitle: >-
-      Aprovecha el precio de lanzamiento y tendrás acceso al nuevo contenido sin
-      costo extra
   - title: Dibujo estilo Japonés
     subtitle: Aprende este complejo y hermoso estilo de dibujo
     actions:

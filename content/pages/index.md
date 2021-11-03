@@ -37,7 +37,7 @@ sections:
       background_image_repeat: no-repeat
     type: hero_section
     image: /images/Taller de plastilina.png
-  - title: lorem-ipsum
+  - title: Escuela de pintura
     subtitle: lorem-ipsum
     actions: []
     align: left

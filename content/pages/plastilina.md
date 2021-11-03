@@ -5,7 +5,12 @@ sections:
     title: Escuela de modelado con plastilina
     align: center
     image: /images/Taller de plastilina.png
-    subtitle: 'Paso a paso '
+    subtitle: >-
+      Paso a paso iremos desarrollando las habilidades motrices necesarias para
+      crear increíbles personajes, ya sea de nuestra imaginación o bien, recrear
+      a nuestros personajes favoritos. No solo eso, sino que les crearemos con
+      nuestras manos sus accesorios, mascotas, escenarios y lo que se nos
+      ocurra.
   - type: features_section
     features:
       - title: 'Clases '

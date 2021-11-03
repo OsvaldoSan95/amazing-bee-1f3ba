@@ -8,11 +8,11 @@ sections:
     features:
       - title: 'Clases '
         content: |
-          #### Módulo 1
+          #### Módulo 1&#xA;&#xA;
+
+          [Presentación](https://www.facebook.com)
 
           [Figuras 3D y colores](https://www.facebook.com)
-
-
 
           ####
 

@@ -6,17 +6,6 @@ sections:
     align: center
   - type: features_section
     features:
-      - title: De cero a pro
-        content: "Paso a paso iremos desarrollando las habilidades motrices necesarias para crear increíbles personajes, ya sea de nuestra imaginación o bien, recrear a nuestros personajes favoritos. No solo eso, sino que les crearemos con nuestras manos sus accesorios, mascotas, escenarios y lo que se nos ocurra.\n\n###### Empieza esta aventura disfrutando de la primera clase que preparé para ti \U0001F447\n"
-        align: left
-        image: /images/Taller de plastilina.png
-        image_alt: Feature 2 placeholder image
-        image_position: left
-        actions:
-          - label: Ver clase muestra
-            url: 'https://www.youtube.com/watch?v=iNdDTf8luUU'
-            style: primary
-            new_window: true
       - title: 'Clases '
         content: |
           #### Módulo 1

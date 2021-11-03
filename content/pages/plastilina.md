@@ -74,7 +74,6 @@ sections:
       background_image_repeat: no-repeat
     type: hero_section
     title: Disfruta este curso y todos los demás por solo $399.00 MXN al año
-    subtitle: Clases uno a uno a través de Zoom
 seo:
   title: Features
   description: This is the features page

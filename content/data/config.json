@@ -8,7 +8,7 @@
             {
                 "label": "Todos los cursos",
                 "url": "/features",
-                "style": "secondary"
+                "style": "link"
             },
             {
                 "label": "¿Quiénes somos?",

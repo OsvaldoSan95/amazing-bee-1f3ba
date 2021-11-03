@@ -68,10 +68,6 @@ sections:
         image_alt: lorem-ipsum
         image_position: left
         actions: []
-  - title: lorem-ipsum
-    show_recent: false
-    recent_count: 0
-    type: blog_feed_section
 seo:
   title: Features
   description: This is the features page

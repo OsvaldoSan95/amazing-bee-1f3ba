@@ -23,6 +23,11 @@ sections:
       - content/data/team/person-tihq4ptrp.json
       - content/data/team/person-xtymmcxa9.json
     type: team_section
+  - team:
+      - content/data/team/person-rjzdx2j34.json
+      - content/data/team/person-pz81udctz.json
+      - content/data/team/person-pr13diz8m.json
+    type: team_section
   - type: cta_section
     title: >-
       Deja de elegir solo uno y disfruta todo el contenido por solo $399.00 MXN
@@ -36,11 +41,6 @@ sections:
     subtitle: >-
       Aprovecha el precio de lanzamiento y tendrás acceso al nuevo contenido sin
       costo extra
-  - team:
-      - content/data/team/person-rjzdx2j34.json
-      - content/data/team/person-pz81udctz.json
-      - content/data/team/person-pr13diz8m.json
-    type: team_section
 seo:
   title: Jardín Sofía Cursos online
   description: 'Cursos online infantiles. Plastilina, pintura, Dibujo, programación e inglés'

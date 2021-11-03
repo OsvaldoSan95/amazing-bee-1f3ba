@@ -18,46 +18,6 @@ sections:
       background_image_opacity: 20
       background_image_size: auto
       background_image_repeat: repeat
-  - type: features_section
-    title: Más populares
-    features:
-      - title: Escuela de modelado con plastilina
-        content: >
-          Aprende a darle forma a tus ideas y a recrear a tus personajes
-          favoritos.
-        align: left
-        image: /images/Taller de plastilina.png
-        image_alt: Feature 1 placeholder image
-        image_position: right
-        actions:
-          - label: Ver clase muestra
-            url: /features
-            style: secondary
-      - title: Escuela de programación de videojuegos
-        content: >+
-          Diviértete creando su propio videojuego mientras te preparas para la
-          profesión del futuro
-
-        align: left
-        image: /images/Info de talleres.png
-        image_alt: Feature 2 placeholder image
-        image_position: left
-        actions:
-          - label: Ver clase muestra
-            url: /features
-            style: secondary
-      - title: Escuela de dibujo y pintura
-        content: |
-          Utilicemos el color para expresar nuestra creatividad y emociones
-        align: left
-        image: /images/WhatsApp Image 2021-08-10 at 15.45.41.jpeg
-        image_alt: Feature 3 placeholder image
-        image_position: right
-        actions:
-          - label: Ver Clase muestra
-            url: >-
-              https://drive.google.com/file/d/1aEqo9yrQ5rOMwB0KBlUZsCiIY5zGre6S/view?usp=sharing
-            style: secondary
   - type: blog_feed_section
     title: Más escuelas
     show_recent: true

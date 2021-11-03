@@ -38,7 +38,7 @@ sections:
         image_alt: Feature 3 placeholder image
         image_position: right
         actions:
-          - label: "\U0001F510 Suscriíe para desbloquear todas las clases"
+          - label: "\U0001F510 Suscríbete para desbloquear todas las clases"
             url: '#'
             style: secondary
             new_window: false

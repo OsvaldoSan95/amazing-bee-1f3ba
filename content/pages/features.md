@@ -3,7 +3,7 @@ title: Plastilina
 sections:
   - type: hero_section
     title: Escuela de modelado con plastilina
-    subtitle: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.'
+    subtitle: Dale forma a tu imaginación
     align: center
   - type: features_section
     features:

@@ -85,7 +85,7 @@ sections:
       background_image_repeat: no-repeat
     type: hero_section
     image: /images/WhatsApp Image 2021-10-13 at 20.18.38 (1).jpeg
-  - title: lorem-ipsum
+  - title: Dibujo
     subtitle: lorem-ipsum
     actions: []
     align: left

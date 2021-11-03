@@ -21,7 +21,7 @@ sections:
             url: /style-guide
             style: primary
       - title: "Clases \U0001F512"
-        content: "###### Figuras 3D y colores\n\n###### &#xD;\n\n###### Frutas y postres&#xD;&#xA;\n\n###### Comida ràpida&#xD;&#xA;\n\n###### Flores y plantas&#xD;&#xA;\n\n###### Dinosaurios&#xD;&#xA;\n\n###### Animales domésticos&#xD;&#xA;\n\n###### Animales de granja&#xD;&#xA;\n\n###### Animales marinos\n\nEstrella de mar y Tortuga\r\nPez payaso\r\nPulpo\r\nTiburón\n\n###### Pokémon\n\nPokebola\r\nPikachu\r\nSquirtle\r\nCharmander\n\n#### ---Modulo 2---\n\nAnimales salvajes\r\nJirafa\r\nLobo\r\nOso\r\nZorro\n\nAnimales salvajes 2\r\nLeopardo\r\nLeón\r\nElefante\n\nPersonajes favoritos\r\nMike\r\nOlaf\r\nStich\r\nPerry el ornitorrinco\n\nPersonajes humanos\r\nRostros\r\nRopa\r\nAccesorios\r\nHerramientas de oficios\n\nCaricaturas\r\nJake\r\nFinn\r\nEscadalosos\n\nPersonajes Mario Bros\r\nMario\r\nLuigi\r\nJoshi\r\nTod\n\nMás personajes\r\n3 Minion\nBob esponja\r\nPatricio\r\nBob esponja\r\nGary\r\nCalamardo\n\nPaw patrol\r\nRubble\r\nSky\r\nMarshall\n\n###### **---Modulo 3---**\n\nSeres fantasticos\r\nUnicornio\r\nDragón\r\nSirena\n"
+        content: "## Módulo 1\n\nFiguras 3D y colores\n\n###### &#xD;\n\nFrutas y postres\r\n\n\nComida rápida\r\n\n\nFlores y plantas\r\n\n\n\n\n## Módulo 2\n\nDinosaurios\r\n\n\nAnimales domésticos\r\n\n\nAnimales de granja\r\n\n\nAnimales marinos\n\n####\n\n"
         align: left
         image_alt: Feature 3 placeholder image
         image_position: right

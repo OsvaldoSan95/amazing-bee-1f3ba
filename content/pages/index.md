@@ -22,7 +22,7 @@ sections:
     subtitle: Dale forma a tus ideas
     actions:
       - label: Más información
-        url: '#'
+        url: /
         style: primary
         new_window: false
         no_follow: false

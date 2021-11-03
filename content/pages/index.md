@@ -73,8 +73,8 @@ sections:
   - type: cta_section
     title: Por solo $89.00 MXN al mes
     subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+      Al dar clic al botón te redirigirá a Mercado pago, desde donde podrás
+      realizar tu pago. De forma automatica,
     actions:
       - label: Suscribirme
         url: 'https://www.youtube.com/watch?v=SL_C1NVHflU'

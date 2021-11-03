@@ -105,7 +105,7 @@ sections:
     actions:
       - label: Realizar compra
         url: '#'
-        style: link
+        style: primary
         new_window: false
         no_follow: false
     has_background: false

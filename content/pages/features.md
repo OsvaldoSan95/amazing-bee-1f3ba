@@ -21,7 +21,30 @@ sections:
             url: /style-guide
             style: primary
       - title: "Clases \U0001F512"
-        content: "## Módulo 1\n\nFiguras 3D y colores\n\n\rFrutas y postres\n\nComida rápida\n\nFlores y plantas\n\n##\n\n## Módulo 2\n\nDinosaurios\n\nAnimales domésticos\n\nAnimales de granja\n\nAnimales marinos\n\n####\n"
+        content: |
+          #### Módulo 1
+
+          Figuras 3D y colores
+
+          Frutas y postres
+
+          Comida rápida
+
+          Flores y plantas
+
+
+
+          #### Módulo 2
+
+          Dinosaurios
+
+          Animales domésticos
+
+          Animales de granja
+
+          Animales marinos
+
+          ####
         align: left
         image_alt: Feature 3 placeholder image
         image_position: right

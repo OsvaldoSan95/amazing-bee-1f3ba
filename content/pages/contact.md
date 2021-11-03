@@ -5,6 +5,12 @@ sections:
     title: Contact
     align: center
     has_background: false
+    actions:
+      - label: lorem-ipsum
+        url: '#'
+        style: link
+        new_window: false
+        no_follow: false
   - type: contact_section
 seo:
   title: Contact

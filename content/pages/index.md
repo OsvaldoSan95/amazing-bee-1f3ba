@@ -36,7 +36,7 @@ sections:
   - title: lorem-ipsum
     subtitle: lorem-ipsum
     actions:
-      - label: lorem-ipsum
+      - label: Más información
         url: '#'
         style: primary
         new_window: false

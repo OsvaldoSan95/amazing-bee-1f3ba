@@ -63,7 +63,7 @@ sections:
         style: primary
     has_background: true
     background_color: gray
-  - title: lorem-ipsum
+  - title: ¿Qué te gustaría aprender primero?
     team:
       - content/data/team/person-qq6sch2i6.json
     type: team_section

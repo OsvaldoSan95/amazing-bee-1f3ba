@@ -52,6 +52,10 @@ sections:
     has_background: false
     background_color: white
     type: cta_section
+  - title: lorem-ipsum
+    show_recent: false
+    recent_count: 0
+    type: blog_feed_section
 seo:
   title: Features
   description: This is the features page

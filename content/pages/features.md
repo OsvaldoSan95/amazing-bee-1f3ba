@@ -22,7 +22,7 @@ sections:
             style: primary
           - label: lorem-ipsum
             url: '#'
-            style: link
+            style: primary
             new_window: false
             no_follow: false
       - title: Feature 3

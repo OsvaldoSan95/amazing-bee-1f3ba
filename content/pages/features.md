@@ -46,8 +46,7 @@ sections:
             style: primary
             new_window: false
             no_follow: false
-      - title: lorem-ipsum
-        content: >-
+      - content: >-
           ## Lorem ipsum
 
 

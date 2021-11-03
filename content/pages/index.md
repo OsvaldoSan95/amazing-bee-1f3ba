@@ -7,7 +7,7 @@ sections:
       Nuestros cursos más populares ahora disponibles para que los disfrutes a
       tu ritmo. Accede a todos por un solo pago anual.
     actions: []
-    align: left
+    align: center
     image_alt: Hero placeholder image
     image_position: right
     has_background: true

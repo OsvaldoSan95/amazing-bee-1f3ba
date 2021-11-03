@@ -36,7 +36,8 @@ sections:
     subtitle: >-
       Aprovecha el precio de lanzamiento y tendrás acceso al nuevo contenido sin
       costo extra
-  - team: []
+  - team:
+      - content/data/team/person-rjzdx2j34.json
     type: team_section
 seo:
   title: Jardín Sofía Cursos online

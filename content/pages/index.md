@@ -28,6 +28,9 @@ sections:
     subtitle: >-
       Aprovecha el precio de lanzamiento y tendrás acceso al nuevo contenido sin
       costo extra
+  - title: lorem-ipsum
+    features: []
+    type: features_section
 seo:
   title: Jardín Sofía Cursos online
   description: 'Cursos online infantiles. Plastilina, pintura, Dibujo, programación e inglés'

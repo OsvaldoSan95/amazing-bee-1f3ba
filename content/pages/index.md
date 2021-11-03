@@ -74,7 +74,9 @@ seo:
       value: Jardín Sofía. Cursos onlines
       keyName: property
     - name: 'og:description'
-      value: The preview of the Starter theme
+      value: >-
+        Cursos online infantiles. Plastilina, pintura, Dibujo, programación e
+        inglés
       keyName: property
     - name: 'og:image'
       value: /images/jar.png

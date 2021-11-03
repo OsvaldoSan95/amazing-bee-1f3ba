@@ -35,10 +35,10 @@ sections:
             url: /features
             style: secondary
       - title: Escuela de programación de videojuegos
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: >+
+          Diviértete creando su propio videojuego mientras te preparas para la
+          profesión del futuro
+
         align: left
         image: /images/Info de talleres.png
         image_alt: Feature 2 placeholder image

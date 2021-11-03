@@ -58,7 +58,7 @@ sections:
         image_alt: lorem-ipsum
         image_position: left
         actions: []
-  - title: lorem-ipsum
+  - title: Mira los trabajos de nuestros alumnos
     actions:
       - label: lorem-ipsum
         url: '#'

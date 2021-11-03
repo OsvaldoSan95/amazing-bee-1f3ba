@@ -68,7 +68,12 @@ sections:
       costo extra
   - title: Dibujo estilo Japonés
     subtitle: Aprende este complejo y hermoso estilo de dibujo
-    actions: []
+    actions:
+      - label: lorem-ipsum
+        url: '#'
+        style: link
+        new_window: false
+        no_follow: false
     align: left
     image_alt: lorem-ipsum
     image_position: left

@@ -14,7 +14,7 @@ sections:
     background:
       background_color: blue
       background_image: /images/Verde Crema Viaje Montaña Vacaciones Planes Foto Collage.png
-      background_image_opacity: 10
+      background_image_opacity: 20
       background_image_size: contain
       background_image_repeat: repeat
   - title: Escuela de modelado con plastilina

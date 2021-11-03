@@ -152,7 +152,7 @@ sections:
   - title: ¿Buscas clases en vivo?
     subtitle: También contamos con clases en vivo a través de zoom
     actions: []
-    align: left
+    align: center
     image_alt: lorem-ipsum
     image_position: left
     has_background: false

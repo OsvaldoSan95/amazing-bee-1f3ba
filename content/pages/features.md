@@ -55,7 +55,7 @@ sections:
             url: '#'
             style: primary
             new_window: false
-            no_follow: false
+            no_follow: true
 seo:
   title: Features
   description: This is the features page

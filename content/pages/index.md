@@ -38,7 +38,7 @@ sections:
     actions:
       - label: lorem-ipsum
         url: '#'
-        style: link
+        style: primary
         new_window: false
         no_follow: false
     align: left

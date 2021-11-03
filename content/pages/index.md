@@ -56,7 +56,8 @@ sections:
         image_position: right
         actions:
           - label: Ver Clase muestra
-            url: /features
+            url: >-
+              https://drive.google.com/file/d/1aEqo9yrQ5rOMwB0KBlUZsCiIY5zGre6S/view?usp=sharing
             style: secondary
   - type: blog_feed_section
     title: What's New

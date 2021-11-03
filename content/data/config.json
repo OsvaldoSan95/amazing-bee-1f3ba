@@ -6,7 +6,7 @@
         "has_nav": true,
         "nav_links": [
             {
-                "label": "T",
+                "label": "Todo",
                 "url": "/features",
                 "style": "link"
             },

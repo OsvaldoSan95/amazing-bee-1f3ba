@@ -88,7 +88,7 @@ sections:
   - title: Dibujo
     subtitle: Aprende desde el boceto
     actions:
-      - label: lorem-ipsum
+      - label: Ir al curso
         url: '#'
         style: link
         new_window: false

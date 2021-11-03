@@ -48,10 +48,8 @@ sections:
             url: /features
             style: secondary
       - title: Escuela de dibujo y pintura
-        content: >-
-          Id nibh tortor id aliquet lectus proin. Amet venenatis urna cursus
-          eget nunc. Lacus sed turpis tincidunt id aliquet risus feugiat in
-          ante.
+        content: |
+          Utilicemos el color para expresar nuestra creatividad y emociones
         align: left
         image: /images/WhatsApp Image 2021-08-10 at 15.45.41.jpeg
         image_alt: Feature 3 placeholder image

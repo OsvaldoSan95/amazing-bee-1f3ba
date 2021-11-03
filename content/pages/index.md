@@ -32,7 +32,7 @@ sections:
     subtitle: Dale forma a tus ideas
     actions:
       - label: Ir al curso
-        url: '#'
+        url: /plastilina
         style: link
         new_window: false
         no_follow: false

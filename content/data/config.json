@@ -45,7 +45,7 @@
         "has_nav": true,
         "nav_links": [
             {
-                "label": "¿Quienes somos",
+                "label": "¿Quienes somos?",
                 "url": "#",
                 "style": "link",
                 "new_window": false,

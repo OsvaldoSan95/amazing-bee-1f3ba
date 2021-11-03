@@ -30,7 +30,12 @@ sections:
       costo extra
   - title: Modelado con plastilina
     subtitle: Dale forma a tus ideas
-    actions: []
+    actions:
+      - label: lorem-ipsum
+        url: '#'
+        style: link
+        new_window: false
+        no_follow: false
     align: left
     image_alt: lorem-ipsum
     image_position: left

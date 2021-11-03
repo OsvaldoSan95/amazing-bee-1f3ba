@@ -59,7 +59,6 @@ sections:
         image_position: left
         actions: []
   - title: lorem-ipsum
-    subtitle: lorem-ipsum
     actions:
       - label: lorem-ipsum
         url: '#'

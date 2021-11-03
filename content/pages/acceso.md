@@ -2,7 +2,6 @@
 title: Acceso
 sections:
   - title: Muchas gracias por tu pago
-    subtitle: 'El último paso es '
     actions: []
     align: left
     image_alt: lorem-ipsum

@@ -69,7 +69,7 @@ sections:
   - title: Dibujo estilo Japonés
     subtitle: Aprende este complejo y hermoso estilo de dibujo
     actions:
-      - label: lorem-ipsum
+      - label: Ir al curso
         url: '#'
         style: link
         new_window: false

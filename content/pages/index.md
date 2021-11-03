@@ -104,7 +104,7 @@ sections:
   - title: Con tu pago de $399.00 anual accedes a los próximos cursos sin costo extra
     actions:
       - label: Suscribirme
-        url: '#'
+        url: '#https://mpago.la/2Jd8DZE'
         style: primary
         new_window: false
         no_follow: false

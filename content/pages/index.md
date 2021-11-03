@@ -114,7 +114,7 @@ sections:
   - title: Programación
     subtitle: Diviértete mientras te preparas para la profesión del presente
     actions:
-      - label: lorem-ipsum
+      - label: Ir al curso
         url: '#'
         style: link
         new_window: false

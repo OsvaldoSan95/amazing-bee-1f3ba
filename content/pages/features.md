@@ -19,7 +19,7 @@ sections:
           ###### Empieza esta aventura disfrutando de la primera clase que
           preparé para ti.
         align: left
-        image: images/feature.svg
+        image: /images/Taller de plastilina.png
         image_alt: Feature 2 placeholder image
         image_position: left
         actions:

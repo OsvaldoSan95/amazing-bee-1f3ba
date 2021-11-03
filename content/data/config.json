@@ -59,5 +59,6 @@
             }
         ]
     },
-    "favicon": "/images/Diseño sin título (3).png"
+    "favicon": "/images/Diseño sin título (3).png",
+    "domain": "https://jardinsofia.netlify.app"
 }

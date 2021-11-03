@@ -74,7 +74,7 @@ sections:
     title: Por solo $89.00 MXN al mes
     subtitle: >-
       Al dar clic al botón te redirigirá a Mercado pago, desde donde podrás
-      realizar tu pago. De forma automatica,
+      realizar tu pago.
     actions:
       - label: Suscribirme
         url: 'https://www.youtube.com/watch?v=SL_C1NVHflU'

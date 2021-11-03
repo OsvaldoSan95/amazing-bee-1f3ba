@@ -78,6 +78,7 @@ sections:
   - title: lorem-ipsum
     team:
       - content/data/team/person-qq6sch2i6.json
+      - content/data/team/person-a8l9c67mx.json
     type: team_section
 seo:
   title: Features

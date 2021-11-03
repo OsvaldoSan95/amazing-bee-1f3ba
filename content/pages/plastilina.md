@@ -17,7 +17,7 @@ sections:
             url: 'https://www.youtube.com/watch?v=iNdDTf8luUU'
             style: primary
             new_window: true
-      - title: "Clases \U0001F512"
+      - title: 'Clases '
         content: |
           #### Módulo 1
 

@@ -2,7 +2,7 @@
     "title": "Stackbit Starter Theme",
     "path_prefix": "/",
     "footer": {
-        "has_nav": false,
+        "has_nav": true,
         "nav_links": [
             {
                 "label": "Contact Us",

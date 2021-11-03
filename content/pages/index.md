@@ -17,12 +17,6 @@ sections:
       background_image_opacity: 15
       background_image_size: contain
       background_image_repeat: repeat
-  - title: ¿Qué te gustaría aprender primero?
-    team:
-      - content/data/team/person-qq6sch2i6.json
-      - content/data/team/person-tihq4ptrp.json
-      - content/data/team/person-xtymmcxa9.json
-    type: team_section
   - team:
       - content/data/team/person-rjzdx2j34.json
       - content/data/team/person-pz81udctz.json

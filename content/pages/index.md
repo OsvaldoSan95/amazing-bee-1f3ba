@@ -36,8 +36,7 @@ sections:
     subtitle: >-
       Aprovecha el precio de lanzamiento y tendrás acceso al nuevo contenido sin
       costo extra
-  - title: lorem-ipsum
-    team: []
+  - team: []
     type: team_section
 seo:
   title: Jardín Sofía Cursos online

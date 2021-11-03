@@ -59,7 +59,7 @@ sections:
               https://drive.google.com/file/d/1aEqo9yrQ5rOMwB0KBlUZsCiIY5zGre6S/view?usp=sharing
             style: secondary
   - type: blog_feed_section
-    title: What's New
+    title: Más escuelas
     show_recent: true
     recent_count: 3
   - type: cta_section

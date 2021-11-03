@@ -60,7 +60,12 @@ sections:
         actions: []
   - title: lorem-ipsum
     subtitle: lorem-ipsum
-    actions: []
+    actions:
+      - label: lorem-ipsum
+        url: '#'
+        style: link
+        new_window: false
+        no_follow: false
     align: center
     image_alt: lorem-ipsum
     image_position: left

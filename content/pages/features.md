@@ -51,7 +51,7 @@ sections:
         image_alt: Feature 3 placeholder image
         image_position: right
         actions:
-          - label: lorem-ipsum
+          - label: Suscribirse
             url: '#'
             style: primary
             new_window: false

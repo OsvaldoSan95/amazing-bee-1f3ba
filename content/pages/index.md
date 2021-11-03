@@ -21,6 +21,14 @@ sections:
     team:
       - content/data/team/person-qq6sch2i6.json
     type: team_section
+  - type: cta_section
+    title: Por solo $399.00 MXN al año
+    actions:
+      - label: Suscribirme
+        url: 'https://www.youtube.com/watch?v=SL_C1NVHflU'
+        style: primary
+    has_background: true
+    background_color: gray
   - title: Escuela de modelado con plastilina
     subtitle: Dale forma a tus ideas
     actions:
@@ -59,14 +67,6 @@ sections:
     type: hero_section
     image: /images/WhatsApp Image 2021-08-10 at 15.45.41.jpeg
     subtitle: Aprende a pintar
-  - type: cta_section
-    title: Por solo $399.00 MXN al año
-    actions:
-      - label: Suscribirme
-        url: 'https://www.youtube.com/watch?v=SL_C1NVHflU'
-        style: primary
-    has_background: true
-    background_color: gray
 seo:
   title: Jardín Sofía Cursos online
   description: 'Cursos online infantiles. Plastilina, pintura, Dibujo, programación e inglés'

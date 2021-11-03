@@ -77,7 +77,7 @@ sections:
       quis lorem malesuada luctus.
     actions:
       - label: Learn More
-        url: /features
+        url: 'https://www.youtube.com/watch?v=SL_C1NVHflU'
         style: primary
     has_background: true
     background_color: gray

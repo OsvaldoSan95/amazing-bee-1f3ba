@@ -113,7 +113,12 @@ sections:
     type: cta_section
   - title: Programación
     subtitle: Diviértete mientras te preparas para la profesión del presente
-    actions: []
+    actions:
+      - label: lorem-ipsum
+        url: '#'
+        style: link
+        new_window: false
+        no_follow: false
     align: left
     image_alt: lorem-ipsum
     image_position: left

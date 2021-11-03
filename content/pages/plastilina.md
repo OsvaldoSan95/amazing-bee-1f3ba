@@ -4,6 +4,7 @@ sections:
   - type: hero_section
     title: Escuela de modelado con plastilina
     align: center
+    image: /images/Taller de plastilina.png
   - type: features_section
     features:
       - title: 'Clases '

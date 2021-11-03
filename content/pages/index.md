@@ -148,6 +148,7 @@ sections:
       background_image_size: cover
       background_image_repeat: no-repeat
     type: hero_section
+    image: /images/Verde Perro Ilustración Publicación de Facebook (2).jpg
 seo:
   title: Jardín Sofía Cursos online
   description: 'Cursos online infantiles. Plastilina, pintura, Dibujo, programación e inglés'

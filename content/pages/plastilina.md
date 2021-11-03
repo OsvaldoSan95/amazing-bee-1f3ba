@@ -59,8 +59,7 @@ sections:
         image_position: left
         actions: []
   - actions:
-      - label: lorem-ipsum
-        url: '#'
+      - url: '#'
         style: secondary
         new_window: false
         no_follow: false

@@ -19,7 +19,7 @@ sections:
       background_image_size: auto
       background_image_repeat: repeat
   - title: Escuela de modelado con plastilina
-    subtitle: 'Dale '
+    subtitle: Dale forma a tus ideas
     actions:
       - label: Más información
         url: '#'

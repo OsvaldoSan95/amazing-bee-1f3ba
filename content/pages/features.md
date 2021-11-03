@@ -46,17 +46,18 @@ sections:
             style: primary
             new_window: false
             no_follow: false
-      - content: >-
-          ## Lorem ipsum
+      - content: |
+          #### Módulo 2&#xA;
 
+          Dinosaurios
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          Animales domésticos
 
+          Animales de granja
 
-          - Lorem ipsum
+          Animales marinos
 
-          - dolor sit amet
+          ####
         align: left
         image_alt: lorem-ipsum
         image_position: left

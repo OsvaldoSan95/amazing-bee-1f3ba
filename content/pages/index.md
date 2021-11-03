@@ -61,7 +61,7 @@ sections:
       - label: Suscribirme
         url: 'https://mpago.la/2Jd8DZE'
         style: primary
-    has_background: false
+    has_background: true
     background_color: gray
     subtitle: >-
       Aprovecha el precio de lanzamiento y tendrás acceso al nuevo contenido sin

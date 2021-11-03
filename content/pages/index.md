@@ -40,7 +40,7 @@ sections:
   - title: Escuela de pintura
     subtitle: lorem-ipsum
     actions:
-      - label: lorem-ipsum
+      - label: Más información
         url: '#'
         style: link
         new_window: false

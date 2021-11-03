@@ -38,7 +38,7 @@ sections:
     type: hero_section
     image: /images/Taller de plastilina.png
   - type: cta_section
-    title: Por solo $33.00 MXN al mes
+    title: Por solo $33.00 MXN al año
     subtitle: >-
       Al dar clic al botón te redirigirá a Mercado pago, desde donde podrás
       realizar tu pago.

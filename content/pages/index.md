@@ -116,7 +116,7 @@ sections:
     actions:
       - label: Ir al curso
         url: '#'
-        style: primary
+        style: secondary
         new_window: false
         no_follow: false
     align: left

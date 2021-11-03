@@ -47,8 +47,6 @@ sections:
             new_window: false
             no_follow: false
       - content: |
-          #### Módulo 2&#xA;
-
           Dinosaurios
 
           Animales domésticos

@@ -22,10 +22,9 @@ sections:
     title: Features
     features:
       - title: Escuela de modelado con plastilina
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: >
+          Aprende a darle forma a tus ideas y a recrear a tus personajes
+          favoritos.
         align: left
         image: /images/Taller de plastilina.png
         image_alt: Feature 1 placeholder image

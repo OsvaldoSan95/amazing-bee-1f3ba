@@ -155,7 +155,7 @@ sections:
       - label: Consultar horarios
         url: '#'
         style: secondary
-        new_window: false
+        new_window: true
         no_follow: false
     align: center
     image_alt: lorem-ipsum

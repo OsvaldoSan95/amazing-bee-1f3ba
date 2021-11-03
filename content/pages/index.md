@@ -7,9 +7,6 @@ sections:
       Nuestros cursos más populares ahora disponibles para que los disfrutes a
       tu ritmo. Accede a todos por un solo pago.
     actions:
-      - label: Learn More
-        url: /features
-        style: primary
       - label: Contact Us
         url: /contact
         style: secondary

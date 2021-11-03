@@ -103,7 +103,7 @@ sections:
     image: /images/Diseño sin título (2).png
   - title: Con tu pago de $399.00 anual accedes a los próximos cursos sin costo extra
     actions:
-      - label: lorem-ipsum
+      - label: Suscr
         url: '#'
         style: link
         new_window: false

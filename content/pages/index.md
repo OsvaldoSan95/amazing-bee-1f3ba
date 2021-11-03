@@ -38,6 +38,7 @@ sections:
       costo extra
   - team:
       - content/data/team/person-rjzdx2j34.json
+      - content/data/team/person-pz81udctz.json
     type: team_section
 seo:
   title: Jardín Sofía Cursos online

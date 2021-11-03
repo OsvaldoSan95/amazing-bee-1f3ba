@@ -1,5 +1,5 @@
 ---
-title: Escuela de modelado con plastilina
+title: Plastilina
 sections:
   - type: hero_section
     title: Escuela de modelado con plastilina

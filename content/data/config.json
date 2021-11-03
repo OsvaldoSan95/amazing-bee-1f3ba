@@ -39,7 +39,7 @@
     },
     "header": {
         "logo_alt": "lorem-ipsum",
-        "has_nav": false,
+        "has_nav": true,
         "nav_links": [
             {
                 "label": "¿Quiénes somos?",

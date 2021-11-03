@@ -16,6 +16,7 @@ sections:
           - label: Ver clase muestra
             url: 'https://www.youtube.com/watch?v=iNdDTf8luUU'
             style: primary
+            new_window: true
       - title: "Clases \U0001F512"
         content: |
           #### Módulo 1

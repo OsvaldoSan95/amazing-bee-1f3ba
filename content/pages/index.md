@@ -6,10 +6,7 @@ sections:
     subtitle: >-
       Nuestros cursos más populares ahora disponibles para que los disfrutes a
       tu ritmo. Accede a todos por un solo pago.
-    actions:
-      - label: Contact Us
-        url: /contact
-        style: secondary
+    actions: []
     align: left
     image: /images/Verde Crema Viaje Montaña Vacaciones Planes Foto Collage.png
     image_alt: Hero placeholder image

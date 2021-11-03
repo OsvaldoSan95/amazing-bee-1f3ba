@@ -149,7 +149,7 @@ sections:
       background_image_repeat: no-repeat
     type: hero_section
     image: /images/Verde Perro Ilustración Publicación de Facebook (2).jpg
-  - title: lorem-ipsum
+  - title: Todos los cursos actuales irán creciendo con el tiempo a
     subtitle: lorem-ipsum
     actions: []
     align: left

@@ -4,8 +4,8 @@ sections:
   - type: hero_section
     title: Desarrolla tu talento
     subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+      Nuestros cursos más populares ahora disponibles para que los disfrutes a
+      tu ritmo. Accede a todos por un solo pago.
     actions:
       - label: Learn More
         url: /features

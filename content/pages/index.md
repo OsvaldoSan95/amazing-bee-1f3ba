@@ -31,7 +31,7 @@ sections:
   - title: Modelado con plastilina
     subtitle: Dale forma a tus ideas
     actions:
-      - label: lorem-ipsum
+      - label: Ir al curso
         url: '#'
         style: link
         new_window: false

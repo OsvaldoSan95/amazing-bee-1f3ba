@@ -23,6 +23,7 @@ sections:
       - content/data/team/person-tihq4ptrp.json
       - content/data/team/person-xtymmcxa9.json
       - content/data/team/person-rjzdx2j34.json
+      - content/data/team/person-pz81udctz.json
     type: team_section
   - type: cta_section
     title: Por solo $399.00 MXN al año

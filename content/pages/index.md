@@ -109,7 +109,7 @@ sections:
         new_window: false
         no_follow: false
     has_background: true
-    background_color: white
+    background_color: gray
     type: cta_section
 seo:
   title: Jardín Sofía Cursos online

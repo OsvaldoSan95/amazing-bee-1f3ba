@@ -84,6 +84,7 @@ sections:
       background_image_size: cover
       background_image_repeat: no-repeat
     type: hero_section
+    image: /images/WhatsApp Image 2021-10-13 at 20.18.38 (1).jpeg
 seo:
   title: Jardín Sofía Cursos online
   description: 'Cursos online infantiles. Plastilina, pintura, Dibujo, programación e inglés'

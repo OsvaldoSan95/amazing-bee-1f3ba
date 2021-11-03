@@ -8,7 +8,6 @@ sections:
       tu ritmo. Accede a todos por un solo pago anual.
     actions: []
     align: left
-    image: /images/Verde Crema Viaje Montaña Vacaciones Planes Foto Collage.png
     image_alt: Hero placeholder image
     image_position: right
     has_background: true

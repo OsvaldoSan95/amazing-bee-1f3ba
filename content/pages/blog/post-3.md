@@ -6,7 +6,7 @@ categories: []
 tags:
   - Stackbit
   - JAMstack
-image: images/3.png
+image: /images/Verde Perro Ilustración Publicación de Facebook (2).jpg
 image_alt: Post 3 placeholder image
 excerpt: >-
   Quis est, qui non oderit libidinosam, protervam adolescentiam? Innumerabilia

@@ -76,7 +76,7 @@ sections:
       background_image_repeat: no-repeat
     type: hero_section
     title: ¿Buscas clases personalizadas?
-    subtitle: Agregar información adicional
+    subtitle: Clases uno a uno a través de Zoom
 seo:
   title: Features
   description: This is the features page

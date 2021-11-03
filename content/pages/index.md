@@ -133,7 +133,7 @@ sections:
   - title: Inglés
     subtitle: Aprende de forma didáctica con la metodología Cambridge
     actions:
-      - label: lorem-ipsum
+      - label: Ir al curso
         url: '#'
         style: link
         new_window: false

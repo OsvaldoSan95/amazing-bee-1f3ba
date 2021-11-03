@@ -55,7 +55,8 @@
                 "new_window": false,
                 "no_follow": false
             }
-        ]
+        ],
+        "title": "Jardín Sofía"
     },
     "favicon": "/images/Diseño sin título (3).png",
     "domain": "https://jardinsofia.netlify.app"

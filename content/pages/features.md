@@ -22,6 +22,11 @@ sections:
             style: primary
           - label: lorem-ipsum
             url: '#'
+            style: link
+            new_window: false
+            no_follow: false
+          - label: lorem-ipsum
+            url: '#'
             style: primary
             new_window: false
             no_follow: false

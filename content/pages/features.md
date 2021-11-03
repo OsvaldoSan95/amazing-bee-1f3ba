@@ -60,6 +60,7 @@ sections:
         image_alt: lorem-ipsum
         image_position: left
         actions: []
+        title: Módulo 2
   - title: lorem-ipsum
     features:
       - title: lorem-ipsum

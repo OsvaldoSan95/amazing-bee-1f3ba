@@ -8,10 +8,16 @@ sections:
   - type: features_section
     features:
       - title: De cero a pro
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: >
+          Paso a paso iremos desarrollando las habilidades motrices necesarias
+          para crear increíbles personajes, ya sea de nuestra imaginación o
+          bien, recrear a nuestros personajes favoritos. No solo eso, sino que
+          les crearemos con nuestras manos sus accesorios, mascotas, escenarios
+          y lo que se nos ocurra. 
+
+
+          ###### Empieza esta aventura disfrutando de la primera clase que
+          preparé para ti.
         align: left
         image: images/feature.svg
         image_alt: Feature 2 placeholder image

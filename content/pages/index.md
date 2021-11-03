@@ -152,7 +152,7 @@ sections:
   - title: ¿Buscas clases en vivo?
     subtitle: También contamos con clases en vivo a través de zoom
     actions:
-      - label: lorem-ipsum
+      - label: Consultar horarios
         url: '#'
         style: link
         new_window: false

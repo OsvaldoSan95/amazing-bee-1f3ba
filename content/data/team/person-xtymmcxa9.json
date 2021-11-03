@@ -4,5 +4,6 @@
     "first_name": "Dibujo",
     "photo_alt": "lorem-ipsum",
     "bio": "Aprende a dibujar desde el boceto\n",
-    "type": "person"
+    "type": "person",
+    "photo": "/images/Diseño sin título (2).png"
 }

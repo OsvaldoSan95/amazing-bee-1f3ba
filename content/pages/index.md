@@ -55,6 +55,7 @@ sections:
       background_image_repeat: no-repeat
     type: hero_section
     image: /images/WhatsApp Image 2021-08-10 at 15.45.41.jpeg
+    subtitle: Aprende a pintar
   - type: cta_section
     title: Por solo $399.00 MXN al año
     subtitle: >-

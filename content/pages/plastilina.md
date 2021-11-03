@@ -75,6 +75,9 @@ sections:
     type: hero_section
     title: ¿Buscas clases personalizadas?
     subtitle: Clases uno a uno a través de Zoom
+  - title: lorem-ipsum
+    team: []
+    type: team_section
 seo:
   title: Features
   description: This is the features page

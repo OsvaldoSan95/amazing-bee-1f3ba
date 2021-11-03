@@ -39,7 +39,12 @@ sections:
     image: /images/Taller de plastilina.png
   - title: Escuela de pintura
     subtitle: lorem-ipsum
-    actions: []
+    actions:
+      - label: lorem-ipsum
+        url: '#'
+        style: link
+        new_window: false
+        no_follow: false
     align: left
     image_alt: lorem-ipsum
     image_position: left

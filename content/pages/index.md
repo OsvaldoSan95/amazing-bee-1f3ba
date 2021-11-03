@@ -44,7 +44,7 @@ sections:
         image_alt: Feature 2 placeholder image
         image_position: left
         actions:
-          - label: Ver clasem muestra
+          - label: Ver clase muestra
             url: /features
             style: secondary
       - title: Escuela de dibujo y pintura

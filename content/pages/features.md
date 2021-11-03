@@ -49,7 +49,7 @@ sections:
         actions:
           - label: Suscribirse para desbloquear todas las clases
             url: '#'
-            style: primary
+            style: secondary
             new_window: false
             no_follow: false
       - content: |

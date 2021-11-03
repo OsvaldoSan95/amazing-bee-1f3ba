@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Acceso
 sections: []
 seo:
   title: ''

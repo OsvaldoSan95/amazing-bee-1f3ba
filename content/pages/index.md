@@ -29,7 +29,7 @@ sections:
       al año
     actions:
       - label: Suscribirme
-        url: 'https://www.youtube.com/watch?v=SL_C1NVHflU'
+        url: 'https://mpago.la/2Jd8DZE'
         style: primary
     has_background: true
     background_color: gray

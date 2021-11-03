@@ -74,6 +74,7 @@ sections:
       background_image_size: cover
       background_image_repeat: no-repeat
     type: hero_section
+    title: Redireccionar
 seo:
   title: Features
   description: This is the features page

@@ -57,9 +57,6 @@ sections:
     subtitle: Aprende a pintar
   - type: cta_section
     title: Por solo $399.00 MXN al año
-    subtitle: >-
-      Al dar clic al botón te redirigirá a Mercado pago, desde donde podrás
-      realizar tu pago.
     actions:
       - label: Suscribirme
         url: 'https://www.youtube.com/watch?v=SL_C1NVHflU'

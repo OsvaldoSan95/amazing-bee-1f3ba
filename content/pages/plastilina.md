@@ -14,7 +14,7 @@ sections:
         image_position: left
         actions:
           - label: Ver clase muestra
-            url: /style-guide
+            url: 'https://www.youtube.com/watch?v=iNdDTf8luUU'
             style: primary
       - title: "Clases \U0001F512"
         content: |

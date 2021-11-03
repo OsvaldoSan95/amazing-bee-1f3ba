@@ -3,7 +3,7 @@ title: Plastilina
 sections:
   - type: hero_section
     title: Escuela de modelado con plastilina
-    align: center
+    align: left
     image: /images/Taller de plastilina.png
     subtitle: >-
       Paso a paso iremos desarrollando las habilidades motrices necesarias para

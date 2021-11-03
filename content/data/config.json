@@ -1,34 +1,6 @@
 {
     "title": "Stackbit Starter Theme",
     "path_prefix": "/",
-    "header": {
-        "title": "Jardín Sofía",
-        "has_nav": true,
-        "nav_links": [
-            {
-                "label": "Todos los cursos",
-                "url": "/features",
-                "style": "link"
-            },
-            {
-                "label": "¿Quiénes somos?",
-                "url": "/style-guide",
-                "style": "link"
-            },
-            {
-                "label": "Escríbenos por Whatsapp",
-                "url": " wa.link/06fmhf",
-                "style": "secondary"
-            },
-            {
-                "label": "lorem-ipsum",
-                "url": "#",
-                "style": "link",
-                "new_window": false,
-                "no_follow": false
-            }
-        ]
-    },
     "footer": {
         "has_nav": true,
         "nav_links": [

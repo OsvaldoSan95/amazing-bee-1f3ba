@@ -22,7 +22,6 @@ sections:
       - content/data/team/person-qq6sch2i6.json
       - content/data/team/person-tihq4ptrp.json
       - content/data/team/person-xtymmcxa9.json
-      - content/data/team/person-rjzdx2j34.json
     type: team_section
   - type: cta_section
     title: >-

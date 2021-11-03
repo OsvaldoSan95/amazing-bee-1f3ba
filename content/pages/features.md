@@ -25,11 +25,6 @@ sections:
             style: link
             new_window: false
             no_follow: false
-          - label: lorem-ipsum
-            url: '#'
-            style: primary
-            new_window: false
-            no_follow: false
       - title: Feature 3
         content: >-
           Id nibh tortor id aliquet lectus proin. Amet venenatis urna cursus

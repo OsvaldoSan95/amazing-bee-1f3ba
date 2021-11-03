@@ -50,7 +50,7 @@ sections:
   - title: Pintura acrílica
     subtitle: Exprésate a través del color
     actions:
-      - label: lorem-ipsum
+      - label: Ir al curso
         url: '#'
         style: link
         new_window: false

@@ -51,7 +51,7 @@ sections:
         image_alt: Feature 3 placeholder image
         image_position: right
         actions:
-          - label: Suscribirse para desbloqu
+          - label: Suscribirse para desbloquear todas las clases
             url: '#'
             style: primary
             new_window: false

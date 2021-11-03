@@ -90,7 +90,7 @@ sections:
     actions:
       - label: Ir al curso
         url: '#'
-        style: link
+        style: secondary
         new_window: false
         no_follow: false
     align: left

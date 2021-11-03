@@ -33,7 +33,7 @@ sections:
     actions:
       - label: Ir al curso
         url: /plastilina
-        style: primary
+        style: secondary
         new_window: false
         no_follow: false
     align: left

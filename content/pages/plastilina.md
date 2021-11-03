@@ -5,6 +5,7 @@ sections:
     title: Escuela de modelado con plastilina
     align: center
     image: /images/Taller de plastilina.png
+    subtitle: 'Paso a paso '
   - type: features_section
     features:
       - title: 'Clases '

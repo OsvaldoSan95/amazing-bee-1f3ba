@@ -17,17 +17,6 @@ sections:
       background_image_opacity: 15
       background_image_size: contain
       background_image_repeat: repeat
-  - type: cta_section
-    title: Disfruta todo el contenido por solo $399.00 MXN al año
-    actions:
-      - label: Suscribirme
-        url: 'https://mpago.la/2Jd8DZE'
-        style: primary
-    has_background: true
-    background_color: gray
-    subtitle: >-
-      Aprovecha el precio de lanzamiento y tendrás acceso al nuevo contenido sin
-      costo extra
   - title: Modelado con plastilina
     subtitle: Dale forma a tus ideas
     actions:
@@ -66,6 +55,17 @@ sections:
       background_image_repeat: no-repeat
     type: hero_section
     image: /images/WhatsApp Image 2021-08-10 at 15.45.41.jpeg
+  - type: cta_section
+    title: Disfruta todo el contenido por solo $399.00 MXN al año
+    actions:
+      - label: Suscribirme
+        url: 'https://mpago.la/2Jd8DZE'
+        style: primary
+    has_background: true
+    background_color: gray
+    subtitle: >-
+      Aprovecha el precio de lanzamiento y tendrás acceso al nuevo contenido sin
+      costo extra
 seo:
   title: Jardín Sofía Cursos online
   description: 'Cursos online infantiles. Plastilina, pintura, Dibujo, programación e inglés'

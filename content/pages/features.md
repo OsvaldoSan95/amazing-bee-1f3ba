@@ -7,7 +7,7 @@ sections:
     align: center
   - type: features_section
     features:
-      - title: Feature 2
+      - title: De cero a pro
         content: >-
           Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
           diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio

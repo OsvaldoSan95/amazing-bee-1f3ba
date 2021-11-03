@@ -40,8 +40,8 @@ sections:
   - type: cta_section
     title: Por solo $33.00 MXN al mes
     subtitle: >-
-      Al dar clic al botón te redirigirá a Mercado pago, desde donde podrás
-      realizar tu pago.
+      Al realizar tu pago de $399.00 al años. Al dar clic al botón te redirigirá
+      a Mercado pago, desde donde podrás realizar tu pago.
     actions:
       - label: Suscribirme
         url: 'https://www.youtube.com/watch?v=SL_C1NVHflU'

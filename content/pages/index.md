@@ -66,7 +66,7 @@ sections:
     subtitle: >-
       Aprovecha el precio de lanzamiento y tendrás acceso al nuevo contenido sin
       costo extra
-  - title: lorem-ipsum
+  - title: Dibujo estilo Japonés
     subtitle: lorem-ipsum
     actions: []
     align: left

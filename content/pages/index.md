@@ -130,7 +130,7 @@ sections:
       background_image_repeat: no-repeat
     type: hero_section
     image: /images/Info de talleres.png
-  - title: lorem-ipsum
+  - title: Inglés
     subtitle: lorem-ipsum
     actions: []
     align: left

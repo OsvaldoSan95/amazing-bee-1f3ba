@@ -6,7 +6,6 @@ sections:
     align: center
     has_background: false
   - type: contact_section
-    title: bnn
 seo:
   title: Contact
   description: This is the contact page

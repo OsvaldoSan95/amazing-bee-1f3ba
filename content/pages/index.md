@@ -151,7 +151,12 @@ sections:
     image: /images/Verde Perro Ilustración Publicación de Facebook (2).jpg
   - title: ¿Buscas clases en vivo?
     subtitle: También contamos con clases en vivo a través de zoom
-    actions: []
+    actions:
+      - label: lorem-ipsum
+        url: '#'
+        style: link
+        new_window: false
+        no_follow: false
     align: center
     image_alt: lorem-ipsum
     image_position: left

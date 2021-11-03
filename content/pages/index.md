@@ -48,7 +48,7 @@ sections:
     type: hero_section
     image: /images/Taller de plastilina.png
   - title: Pintura acrílica
-    subtitle: lorem-ipsum
+    subtitle: Expresate a través del color
     actions: []
     align: left
     image_alt: lorem-ipsum

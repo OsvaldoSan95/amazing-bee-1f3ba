@@ -67,7 +67,7 @@ sections:
       Aprovecha el precio de lanzamiento y tendrás acceso al nuevo contenido sin
       costo extra
   - title: Dibujo estilo Japonés
-    subtitle: 'Aprende está compleja '
+    subtitle: Aprende está compleja y hermoso estilo de dibujo
     actions: []
     align: left
     image_alt: lorem-ipsum

@@ -104,6 +104,12 @@ sections:
       background_image_repeat: no-repeat
     type: hero_section
     image: /images/Diseño sin título (2).png
+  - title: lorem-ipsum
+    subtitle: lorem-ipsum
+    actions: []
+    has_background: false
+    background_color: white
+    type: cta_section
 seo:
   title: Jardín Sofía Cursos online
   description: 'Cursos online infantiles. Plastilina, pintura, Dibujo, programación e inglés'

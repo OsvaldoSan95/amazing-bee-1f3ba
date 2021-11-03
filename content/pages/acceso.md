@@ -13,7 +13,7 @@ sections:
       background_image_size: cover
       background_image_repeat: no-repeat
     type: hero_section
-    subtitle: 'Por último, necesito que me compartas tu cuenta de correo electrónico par'
+    subtitle: 'Por último, necesito quer'
 seo:
   title: ''
   description: ''

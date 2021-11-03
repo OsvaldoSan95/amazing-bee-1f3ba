@@ -73,7 +73,7 @@ sections:
       background_image_size: cover
       background_image_repeat: no-repeat
     type: hero_section
-    title: ¿Buscas clases personalizadas?
+    title: Disfruta este curso y todos los demás por solo $399.00 MXN al año
     subtitle: Clases uno a uno a través de Zoom
 seo:
   title: Features

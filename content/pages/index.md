@@ -65,7 +65,7 @@ sections:
     background_color: gray
 seo:
   title: Jardín Sofía Cursos online
-  description: The preview of the Starter theme
+  description: 'Cursos online infantiles. Plastilina, pintura, Dibujo, programación e inglés'
   extra:
     - name: 'og:type'
       value: website

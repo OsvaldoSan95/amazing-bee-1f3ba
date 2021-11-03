@@ -18,17 +18,6 @@ sections:
       background_image_opacity: 20
       background_image_size: auto
       background_image_repeat: repeat
-  - type: cta_section
-    title: Por solo $89.00 MXN al mes
-    subtitle: >-
-      Al dar clic al botón te redirigirá a Mercado pago, desde donde podrás
-      realizar tu pago.
-    actions:
-      - label: Suscribirme
-        url: 'https://www.youtube.com/watch?v=SL_C1NVHflU'
-        style: primary
-    has_background: true
-    background_color: gray
   - title: Escuela de modelado con plastilina
     subtitle: lorem-ipsum
     actions:
@@ -48,6 +37,17 @@ sections:
       background_image_repeat: no-repeat
     type: hero_section
     image: /images/Taller de plastilina.png
+  - type: cta_section
+    title: Por solo $89.00 MXN al mes
+    subtitle: >-
+      Al dar clic al botón te redirigirá a Mercado pago, desde donde podrás
+      realizar tu pago.
+    actions:
+      - label: Suscribirme
+        url: 'https://www.youtube.com/watch?v=SL_C1NVHflU'
+        style: primary
+    has_background: true
+    background_color: gray
 seo:
   title: Stackbit Starter Theme
   description: The preview of the Starter theme

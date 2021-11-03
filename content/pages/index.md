@@ -17,11 +17,6 @@ sections:
       background_image_opacity: 15
       background_image_size: contain
       background_image_repeat: repeat
-  - team:
-      - content/data/team/person-rjzdx2j34.json
-      - content/data/team/person-pz81udctz.json
-      - content/data/team/person-pr13diz8m.json
-    type: team_section
   - type: cta_section
     title: Disfruta todo el contenido por solo $399.00 MXN al año
     actions:

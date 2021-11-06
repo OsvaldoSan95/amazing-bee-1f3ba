@@ -37,7 +37,7 @@ sections:
               https://drive.google.com/file/d/1AHiG0MN2B0XidAqVCTM-KrVvNsRaTtt6/view?usp=sharing
             style: secondary
             new_window: false
-            no_follow: false
+            no_follow: true
       - content: |
           Frutas y postres
 

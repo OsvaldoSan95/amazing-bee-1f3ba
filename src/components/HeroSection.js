@@ -19,7 +19,7 @@ export default class HeroSection extends React.Component {
                     backgroundSize: backgroundSize,
                     backgroundRepeat: backgroundRepeat
             
-        <iframe src="https://drive.google.com/file/d/1AHiG0MN2B0XidAqVCTM-KrVvNsRaTtt6/preview" width="640" height="480" allow="autoplay"></iframe>
+            <iframe src="https://drive.google.com/file/d/1AHiG0MN2B0XidAqVCTM-KrVvNsRaTtt6/preview" width="640" height="480" allow="autoplay"></iframe>
 
                 }}
             />

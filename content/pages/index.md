@@ -103,7 +103,7 @@ sections:
     image: /images/Diseño sin título (2).png
   - title: Con tu pago de $399.00 anual accedes a los próximos cursos sin costo extra
     actions:
-      - label: Ir a Facebook para inscribirme
+      - label: Ir a Facebook r inscribirme
         url: '#https://mpago.la/2Jd8DZE'
         style: primary
         new_window: false

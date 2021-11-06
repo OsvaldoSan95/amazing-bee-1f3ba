@@ -17,8 +17,7 @@ export default class HeroSection extends React.Component {
                     backgroundImage: `url('${withPrefix(backgroundImage)}')`,
                     opacity: backgroundOpacity,
                     backgroundSize: backgroundSize,
-                    backgroundRepeat: backgroundRepeat
-            
+                    backgroundRepeat: backgroundRepea
             <iframe src="https://drive.google.com/file/d/1AHiG0MN2B0XidAqVCTM-KrVvNsRaTtt6/preview" width="640" height="480" allow="autoplay"></iframe>
 
                 }}

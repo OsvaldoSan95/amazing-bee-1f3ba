@@ -17,7 +17,7 @@ export default class HeroSection extends React.Component {
                     backgroundImage: `url('${withPrefix(backgroundImage)}')`,
                     opacity: backgroundOpacity,
                     backgroundSize: backgroundSize,
-                    backgroundRepeat: backgroundRepea
+                    backgroundRepeat: backgroundRepeat
                 }}
             />
         );

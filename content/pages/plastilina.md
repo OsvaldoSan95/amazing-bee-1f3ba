@@ -14,14 +14,22 @@ sections:
   - type: features_section
     features:
       - title: 'Clases '
-        content: |
+        content: >
           #### Módulo 1&#xA;&#xA;
 
-          [Presentación](https://www.facebook.com)
+
+          [Presentación](https://drive.google.com/file/d/1AHiG0MN2B0XidAqVCTM-KrVvNsRaTtt6/view?usp=sharing)
+
 
           [Figuras 3D y colores](https://www.facebook.com)
 
+
+
+
+
+
           ####
+
 
           ####
         align: left

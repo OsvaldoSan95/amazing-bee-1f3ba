@@ -24,14 +24,11 @@ sections:
           [Figuras 3D y colores](https://www.facebook.com)
 
 
-
-
-
-
           ####
 
 
           ####
+          ![](https://drive.google.com/file/d/1AHiG0MN2B0XidAqVCTM-KrVvNsRaTtt6/view?usp=sharing)
         align: left
         image_alt: Feature 3 placeholder image
         image_position: right

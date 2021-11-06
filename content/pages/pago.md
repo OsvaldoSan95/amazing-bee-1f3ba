@@ -1,5 +1,5 @@
 ---
-title: Estás
+title: Estás a punto de obtener el curso
 seo:
   title: ''
   description: ''

@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Estás
 seo:
   title: ''
   description: ''

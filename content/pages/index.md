@@ -12,7 +12,7 @@ sections:
     image_position: right
     has_background: true
     background:
-      background_color: white
+      background_color: blue
       background_image: /images/Verde Crema Viaje Montaña Vacaciones Planes Foto Collage.png
       background_image_opacity: 15
       background_image_size: contain

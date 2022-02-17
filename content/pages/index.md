@@ -62,7 +62,7 @@ sections:
         url: 'https://mpago.la/2Jd8DZE'
         style: primary
     has_background: true
-    background_color: blue
+    background_color: gray
   - title: Dibujo estilo Japonés
     subtitle: Aprende este complejo y hermoso estilo de dibujo
     actions:

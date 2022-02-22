@@ -56,7 +56,7 @@ sections:
     type: hero_section
     image: /images/WhatsApp Image 2021-08-10 at 15.45.41.jpeg
   - type: cta_section
-    title: Disfruta todo el contenido por solo $399.00 MXN al año
+    title: Disfruta todo el contenido por solo $000.00 MXN al año
     actions:
       - label: Suscribirme
         url: 'https://mpago.la/2Jd8DZE'

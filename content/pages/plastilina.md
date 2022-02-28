@@ -79,6 +79,10 @@ sections:
       background_image_repeat: no-repeat
     type: hero_section
     title: Disfruta este curso y todos los demás por solo $399.00 MXN al año
+  - title: lorem-ipsum
+    show_recent: false
+    recent_count: 0
+    type: blog_feed_section
 seo:
   title: Features
   description: This is the features page
